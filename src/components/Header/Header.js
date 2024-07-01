@@ -17,7 +17,7 @@ export default function Header() {
             fontFamily: "SpaceGroteskBold",
           }}
         >
-          stack news
+          VIMU news
         </Text>
       </View>
 
